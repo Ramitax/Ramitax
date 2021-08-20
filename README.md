@@ -1,6 +1,6 @@
 ### Bienvenidos, soy Ramiro Ambrosetti - aka [Ramitax][website] 👋
 
-## Soy estudiante de Ingeniería en Computación y Licenciatura en Informática Superior !!
+## Soy estudiante de Ingeniería en Computación y Licenciatura en Informática Superior !
 
 - 🔭 Soy un programador Junior en : [NTT Data][company]!
 - 🌱 Actualmente me encuentro estudiando varias cosas 🤣
