@@ -44,6 +44,6 @@
 ---
 
 [website]: https://ramitax.github.io/Portfolio
-[company]: https://www.nttdata.com/global/en
+[company]: http://www.vantek.co
 [instagram]: https://www.instagram.com/rama_ambrosetti
 [linkedin]: https://www.linkedin.com/in/ramiroambrosetti
