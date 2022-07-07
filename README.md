@@ -2,10 +2,10 @@
 
 ## Soy estudiante de Ingeniería en Computación y Licenciatura en Informática Superior !
 
-- 🔭 Soy un programador FullStack Junior en : [Vantek][company]!
+- 🔭 Soy programador FullStack en : [Vantek][company]!
 - 🌱 Actualmente me encuentro estudiando varias cosas 🤣
 - 👯 Me encanta contribuir con otros desarrolladores
-- 🥅 2021 Goals: Contribuir con más proyectos Open Source 
+- 🥅 2022 Goals: Convertirme en un experto en Angular
 - ⚡ Pasatiempos: Me encanta jugar videojuegos y leer libros sobre la calidad de código 
 
 ### Connect with me:
