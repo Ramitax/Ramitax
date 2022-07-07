@@ -2,7 +2,7 @@
 
 ## Soy estudiante de Ingeniería en Computación y Licenciatura en Informática Superior !
 
-- 🔭 Soy un programador Junior en : [NTT Data][company]!
+- 🔭 Soy un programador FullStack Junior en : [Vantek][company]!
 - 🌱 Actualmente me encuentro estudiando varias cosas 🤣
 - 👯 Me encanta contribuir con otros desarrolladores
 - 🥅 2021 Goals: Contribuir con más proyectos Open Source 
