@@ -2,10 +2,10 @@
 
 ## Soy estudiante de Ingeniería en Computación y Licenciatura en Informática Superior !
 
-- 🔭 Soy programador FullStack en [Vantek!][company]
+- 🔭 Soy programador FullStack en [Atos!][company]
 - 🌱 Actualmente me encuentro estudiando varias cosas 🤣
 - 👯 Me encanta contribuir con otros desarrolladores
-- 🥅 2022 Goals: Convertirme en un experto en Angular
+- 🥅 2023 Goals: Convertirme en un experto en Angular
 - ⚡ Pasatiempos: Me encanta jugar videojuegos y leer libros sobre la calidad de código 
 
 ### Connect with me:
@@ -44,6 +44,6 @@
 ---
 
 [website]: https://ramitax.github.io/Portfolio
-[company]: http://www.vantek.co
+[company]: https://atos.net/es/spain
 [instagram]: https://www.instagram.com/rama_ambrosetti
 [linkedin]: https://www.linkedin.com/in/ramiroambrosetti
